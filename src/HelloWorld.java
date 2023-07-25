@@ -7,7 +7,7 @@ public class HelloWorld {
         float bankAcctBal;
     }
 
-    public static void main(String[] args) {
+    public static void main(People[] args) {
         System.out.println(isLoggedIn);
         System.out.println("Hello, World!");
     }
